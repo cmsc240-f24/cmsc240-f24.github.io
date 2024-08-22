@@ -28,14 +28,14 @@ aside:
 * Lecture (Jepson G04)
   * Tue 10:30AM - 11:45AM
   * Thr 10:30AM - 11:45AM
-* Lab (Jespson G03)
-  * Fri 10:30AM - 11:20AM
+* Lab (Jespson G04)
+  * Fri 9:00AM - 9:50AM
 
 ### Course Staff
 - Dr. David Balash - Instructor
-- Padmaja Karki - Lab Assistant
-- Maggie Song - Grader
-- Aris Karamustafić - Course Mentor
+- Jade Mawn - Lab Assistant
+- Toni Wu - Grader
+
 
 ## Course Details 
 

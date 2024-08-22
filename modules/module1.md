@@ -6,7 +6,7 @@ permalink: module/1
 # Module 1: Introduction
 
 * First read this page then start coding module and answering the exercise questions with the GitHub classroom link below.
-* Github Classroom Link: [https://classroom.github.com/a/I8edy6_T](https://classroom.github.com/a/I8edy6_T)
+* Github Classroom Link: [https://classroom.github.com/a/ZZKBGi4j](https://classroom.github.com/a/ZZKBGi4j)
 
 ### Objectives
 
