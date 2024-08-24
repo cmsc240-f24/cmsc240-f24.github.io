@@ -11,9 +11,9 @@ title: CMSC 240 Software Systems Development - Fall 2024
                 <li><a href="mailto:david.balash@richmond.edu">david.balash@richmond.edu</a></li>
                 <li>Office Hours (Jepson 223):
                     <ul>
-                        <li>Tue 4:30PM - 5:30PM</li>
-                        <li>Fri 3:00PM - 5:00PM</li>
-                        <li>and by appointment at <a href="https://calendly.com/davidbalash">https://calendly.com/davidbalash</a></li> 
+                        <li>Tue 4:30PM - 6:00PM</li>
+                        <li>Thr 4:30PM - 6:00PM</li>
+                        <li>and by appointment</li> 
                     </ul>
                 </li>
             </ul>

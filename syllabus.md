@@ -19,7 +19,7 @@ aside:
 * **Office Hours:** (Jepson 223)
   * Tue 4:30PM - 5:30PM
   * Fri 3:00PM - 5:00PM
-  * and by appointment at [https://calendly.com/davidbalash](https://calendly.com/davidbalash) or by email
+  * and by appointment
 * **Prerequisites:** CMSC 221 with a minimum grade of C- (See [computer science curriculum](https://cs.richmond.edu/Academics/courses/index.html))
 
 ### Meeting Times
@@ -135,7 +135,7 @@ In cases of personal illnesses, emergencies, or documented accommodations, assig
 
 
 ### Attendance Policy
-Regular attendance for the entire class time is expected. You should not miss more than 4 total sessions (including lecture and lab). If you have to quarantine due to COVID or miss class for other legitimate reasons you will not be penalized.
+Regular attendance for the entire class time is expected. You may miss 4 total sessions (including lecture and lab). If you have to quarantine due to COVID or miss class for other legitimate reasons you will not be penalized. After 4 unexcused absences a 3% deduction will be applied to your final grade for each subsequent unexcused absence. 
    
 
 ### Self-Guided Module exercises
