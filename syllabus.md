@@ -17,8 +17,8 @@ aside:
 * **Instructor:** Dr. David Balash
 * **Email:** [david.balash@richmond.edu](mailto:david.balash@richmond.edu)
 * **Office Hours:** (Jepson 223)
-  * Tue 4:30PM - 5:30PM
-  * Fri 3:00PM - 5:00PM
+  * Tue 4:30PM - 6:00PM
+  * Thr 4:30PM - 6:00PM
   * and by appointment
 * **Prerequisites:** CMSC 221 with a minimum grade of C- (See [computer science curriculum](https://cs.richmond.edu/Academics/courses/index.html))
 
@@ -129,7 +129,7 @@ Assignments including modules and labs may be submitted late with a **10%** dedu
 
 You will have two "**late passes**" per semester to use on modules and labs.  To use a late pass, notify me which assignment you would like to use it on, and you may turn that assignment in **one week late for full credit**. 
 
-Late passes may **not** be used on the final project or exams.   
+Late passes may **not** be used on the final project or quizzes.   
 
 In cases of personal illnesses, emergencies, or documented accommodations, assignments may be submitted late for full credit if you notify me of your situation.
 
@@ -152,7 +152,7 @@ Labs are due at 11:59 pm on the night prior to the next lab (for this course, th
  
 ### Programming Project
 
-The programming project will be written in the C++ language, and must compile without warnings using the GNU g++ compiler and the -Wall flag on the department's Linux machines (cs01 - cs06 and turing2). 
+The programming project will be written in the C++ language, and must compile without warnings using the GNU g++ compiler and the -Wall flag on the department's Linux machines (cs01 - cs06). 
 
 
 ### Quizzes
