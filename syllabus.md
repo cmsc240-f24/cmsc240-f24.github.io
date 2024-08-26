@@ -41,7 +41,7 @@ aside:
 
 ### Welcome to Software Systems Development!
 
-Your dedication and hard work have led you to this moment; you belong here. Congratulations on your achievements, and welcome to the course. I am thrilled to have you here and am looking forward to a semester filled with growth, learning, and success. Together, we will explore, create, and innovate. Let's make this an outstanding semester for everyone!
+Welcome to the course. I am thrilled to have you here and am looking forward to a semester filled with growth, learning, and success. Together, we will explore, create, and innovate. Let's make this an outstanding semester for everyone!
 
 ### Course Description 
 
@@ -170,6 +170,11 @@ If you have personal, individual issues you'd like addressed, you should send th
 
 
 ## Course Policies
+
+### Statement on Inclusive Teaching
+
+It is my intent that students from all backgrounds and perspectives be well-served by this course, and that the diversity that the students bring to this class be viewed as a resource, strength and benefit. Your suggestions are encouraged and appreciated. Please let me know ways to improve the effectiveness of the course for you personally, or for other students or student groups.
+
 
 ### Illness policy
 
