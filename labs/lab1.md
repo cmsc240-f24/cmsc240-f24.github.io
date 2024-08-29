@@ -60,7 +60,7 @@ who | sort
 ```
 <br />
 
-- **What is the difference between using > and | after a command?** 
+- **What is the difference between using `>` and `|` after a command?** 
 
 
 ___
