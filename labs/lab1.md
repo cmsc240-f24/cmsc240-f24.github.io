@@ -89,7 +89,7 @@ ls z*p
 
 <br />
 
-- **What is the purpose of * in specifying items at the command prompt?**
+- **What is the purpose of `*` in specifying items at the command prompt?**
 
 ___
 
