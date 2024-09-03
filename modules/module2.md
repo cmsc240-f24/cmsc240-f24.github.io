@@ -6,7 +6,7 @@ permalink: module/2
 # Module 2: Functions, Strings, and Command Line Arguments
 
 * First read this page then start coding module with the GitHub classroom link below.
-* Github Classroom Link: [https://classroom.github.com/a/0iIUIHL8](https://classroom.github.com/a/0iIUIHL8)
+* Github Classroom Link: [https://classroom.github.com/a/ArSgN6td](https://classroom.github.com/a/ArSgN6td)
 
 
 ## Exercise 1: <a class="anchor" id="exercise_1"></a>
@@ -18,7 +18,7 @@ The code for this exercise is in the `exercise1` directory in the module2 reposi
 ```
 
 <div class="requirement">
-When you finish and test your code, write in the README.md file how your code works, and explain how the input is recieved from the command line via `argc` and `argv[]`.
+When you finish and test your code, write in the README.md file how your code works, and explain how the input is received from the command line via `argc` and `argv[]`.
 </div>
 
 Complete a small program to check if the input provided by the user is a palindrome. A palindrome is a string that is the same forward and backwards.
