@@ -12,7 +12,7 @@ title: Schedule
 | Week | Lecture (Tue)                              | Lecture (Thr)                                 | Lab (Fri)                                        |
 | :--- | :---                                       | :---                                          | :---                                                  |
 | 1    | Aug 27:  <br />Read Text: Chapter 2<br />Read [Unix Tutorial](https://users.cs.duke.edu/~alvy/courses/unixtut/): Intro, T1, T2, T3<br />Slides: [Introduction](lectures/01-Introduction.pdf)              | Aug 29:  <br /> Slides: [C++ Basics](lectures/02-Language-Basics.pdf)<br /> Module 1: [Hello C++](modules/module1.md) (Due Thu Sept 5) <br />Read [Unix Tutorial](https://users.cs.duke.edu/~alvy/courses/unixtut/): T4, T5, T6                                     | Aug 30: <br />Lab 1: [Linux Basics](lab/1) (Due Thr Sep 5)                  |
-| 2    | Sep  3: <br />Read Text: Chapter 3<br /> Slides: [Strings and Functions](lectures/03-Strings-Functions.pdf) <br/>Module 2: [Functions, Strings, and Command-Line Arguments](modules/module2.md) (Due Tue Sept 10)    | Sep  5:      | Sep  6:          |
+| 2    | Sep  3: <br />Read Text: Chapter 3<br /> Slides: [Strings and Functions](lectures/03-Strings-Functions.pdf) <br/>Module 2: [Functions, Strings, and Command-Line Arguments](modules/module2.md) (Due Tue Sept 10)    | Sep  5: <br /> Slides: [Collections and File I/O](lectures/04-Collections-FileIO.pdf) <br/>Module 3: [Arrays, Vectors, and File I/O](modules/module3.md) (Due Thr Sep 12)      | Sep  6:          |
 | 3    | Sep 10:     | Sep 12:      | Sep 13:          |
 | 4    | Sep 17:     | Sep 19:      | Sep 20:          |
 | 5    | Sep 24:     | Sep 26:      | Sep 27:          |
