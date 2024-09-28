@@ -5,7 +5,7 @@ permalink: /lectures/11
 
 # Lecture 11 -  Scope, Friends, Destructors, Composition, and UML
 
-[Live Code Link](https://prod.liveshare.vsengsaas.visualstudio.com/join?5B5DE1E94EB7327781AAACA879E6D58276D0)
+[Live Code Link]()
 
 ### Objectives
 
@@ -13,7 +13,7 @@ In this lecture, we will delve into key concepts of C++ and object-oriented desi
 
 ### Instructions
 
-Complete the in-class exercises inside the module-6 repository here:  [https://classroom.github.com/a/9r7yX0xl](https://classroom.github.com/a/9r7yX0xl)
+Complete the in-class exercises inside the module-6 repository here:  [https://classroom.github.com/a/fwlMU_bV](https://classroom.github.com/a/fwlMU_bV)
 
 ### Lecture Topics
 - [Scope](#scope)
