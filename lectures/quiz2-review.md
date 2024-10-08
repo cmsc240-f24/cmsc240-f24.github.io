@@ -79,12 +79,22 @@ public:
 private:
     std::string genre;
 };
+
+int main()
+{
+    Novel mystery{"A Study in Scarlet", "Mystery"};
+
+    // Can you do this?
+    std::cout << mystery.title << std::endl; 
+
+    return 0;
+}
 ```
 
 Consider the C++ program __Book.cpp__ above.
-* Describe the purpose of the protected access specifier in the Book class, and explain how it contrasts with the private access specifier.
-* In the Novel class, which inherits from Book, can the summarize method directly access the title attribute? Provide a justification for your answer.
-* If you create an object of the Novel class within the main function, can you directly access the title attribute from that object? Elaborate on your answer.
+* Describe the purpose of the `protected` access specifier in the `Book` class, and explain how it contrasts with the `private` access specifier.
+* In the `Novel` class, which inherits from `Book`, can the summarize method directly access the `title` attribute? Provide a justification for your answer.
+* If you create an object (instance) of the `Novel` class within the `main` function, can you directly access the `title` attribute from that object? Elaborate on your answer.
 
 
 ### Dynamic Memory Allocation and Deallocation
