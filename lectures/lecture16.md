@@ -8,8 +8,6 @@ permalink: /lecture/16
 ### Objective
 Equip students with an understanding of regular expressions and their practical application in C++ programming, enabling them to proficiently utilize regular expressions for pattern matching, text manipulation, and data extraction in real-world programming scenarios.
 
-Module 8: [https://classroom.github.com/a/zRXzMlfT](https://classroom.github.com/a/zRXzMlfT)
-
 ### Lecture Topics
 
 * [Introduction to Regular Expressions](#introduction)
