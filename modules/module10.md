@@ -6,7 +6,7 @@ permalink: module/10
 # Module 10: Templates in C++
 
 * First read this page then start the module with the GitHub classroom link below.
-* Github Classroom Link: [https://classroom.github.com/a/7rFKKCjL](https://classroom.github.com/a/7rFKKCjL)
+* Github Classroom Link: [https://classroom.github.com/a/hQky-Ddo](https://classroom.github.com/a/hQky-Ddo)
 
 
 ## Exercise 1: Template Function
