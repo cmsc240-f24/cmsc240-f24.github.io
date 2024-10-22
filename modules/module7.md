@@ -21,7 +21,7 @@ When you compile a C++ program, the compiler often does the following steps:
 
 ## Exercise 1
 
-Go to the `exercise1` directory of your module 8 GitHub repository. Put your answers to the questions below in the README.md in your module 8 GitHub repository. 
+Go to the `exercise1` directory of your module 7 GitHub repository. Put your answers to the questions below in the README.md in your module 7 GitHub repository. 
 
 1. Run the following commands to inspect the file type of each file.
 ```
