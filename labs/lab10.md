@@ -7,42 +7,46 @@ permalink: lab/10
 
 ## Instructions
 * First read this page then start working on lab with the GitHub classroom link below.
+* You __must__ start this lab in person.  
+
+## Teams
+
+__Generated with__ [Random Team Generator](https://www.randomlists.com/team-generator?grp=5&items=Georgios%0AJohn+Paul%0ANyel%0AIsleta%0AEvan%0AJonni%0ABrian%0ADarina%0AWill%0ATamanna%0ASamuel%0AVarun%0AEthan%0AOwen%0AAlena%0ABrooke%0ALaeticia%0AJason%0AJeff)
 
 ### Group 1
-- Braydon
-- Thomas
-- Jade
-- Nate
+- Tamanna
+- Evan
+- Jonni
+- Nyel
 
 ### Group 2
-- Jessi
-- Isaac
-- Jacob
-- Dhru
+- Laeticia
+- Isleta
+- Samuel
+- Varun
 
 ### Group 3
-- Konstantinos
-- Charlotte
-- Jinmeng
-- Kasym
+- Jason
+- John Paul
+- Georgios
+- Brian
 
 ### Group 4
-- Maxwell
-- Nikoloz
-- Amber
-- Michael
+- Ethan
+- Will
+- Owen
+- Alena
 
 ### Group 5
-- Caroline
-- Ellen
-- Joseph
-- Toni
+- Brooke
+- Jeff
+- Darina
 
 * Note: This is a group lab. __Name your group using a combination of the first names of the group members.__ 
 
 * Use the code in the GitHub repository for this lab.
 
-* Github Classroom Link: [https://classroom.github.com/a/FHAn9IqQ](https://classroom.github.com/a/FHAn9IqQ)
+* Github Classroom Link: [https://classroom.github.com/a/_gafeSzd](https://classroom.github.com/a/_gafeSzd)
 
 ## Overview
 In this lab, you will work in groups of three (there may be one or two group of four), experimenting in the use of git (for your local version of a repository) and GitHub (where, via git, the three of you will combine your work). You will ultimately implement a working solution to a collection of C++ classes/programs that includes:
