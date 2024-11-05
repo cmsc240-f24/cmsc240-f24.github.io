@@ -18,20 +18,20 @@ Review the course topics and content that will be assessed on the third quiz.
 ## What to Study
    
 __Lectures__:
-* Slides: [Errors and Exception Handling](lectures/08-Error-Handling.pdf)
+* Slides: [Errors and Exception Handling](08-Error-Handling.pdf)
     - Try/Catch blocks
     - Throwing exceptions
-* Slides: [Make and Makefiles](lectures/15-Make-Makefiles.pdf)
+* Slides: [Make and Makefiles](15-Make-Makefiles.pdf)
     - Make
     - Makefiles
 * Lecture Notes: [Regular Expressions in C++](lecture/16) 
     - Regex for validation
     - Regex for search
     - Regex in C++
-* Slides: [Serialization in C++](lectures/17-Serialization.pdf)
+* Slides: [Serialization in C++](17-Serialization.pdf)
     - Serialization
     - Deserialization 
-* Slides: [C++ Templates](lectures/18-Templates.pdf)
+* Slides: [C++ Templates](18-Templates.pdf)
     - Function templates
     - Class templates
 
