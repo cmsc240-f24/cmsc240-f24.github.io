@@ -6,7 +6,7 @@ permalink: module/12
 # Module 12: REST API - Part 2
 
 * First read this page then start the module with the GitHub classroom link below.
-* Github Classroom Link: [https://classroom.github.com/a/2W82s5Oa](https://classroom.github.com/a/2W82s5Oa)
+* Github Classroom Link: [https://classroom.github.com/a/LJqMiP3v](https://classroom.github.com/a/LJqMiP3v)
 
 ## Resources
 

@@ -21,11 +21,11 @@ title: Schedule
 | 8    | Oct 15: **Fall Break**     | Oct 17: <br /> Lecture Notes: [Regular Expressions in C++](lecture/16) <br /> Module 8: [Regular Expressions](https://classroom.github.com/a/3Zv2_tEe) (Due Thr Oct 24)      | Oct 18:  <br /> Lab 8: [Regular Expressions in C++ and Linux](labs/lab8.md) (Due Thr Oct 24)        |
 | 9    | Oct 22: <br />Slides: [Make and Makefiles](lectures/15-Make-Makefiles.pdf)  <br /> Module 7: [Build Automation with Make](modules/module7.md) (Due Tue Oct 29)      | Oct 24: <br /> Slides: [C++ Templates](lectures/18-Templates.pdf) <br /> Module 10: [Templates](modules/module10.md) (Due Thr Oct 31)      | Oct 25: <br />[Lab 9 Templates](labs/lab9.md) (Due Thr Oct 31)          |
 | 10   | Oct 29: <br /> Lecture Notes: [What is an API?](lecture/20) <br />Slides: [Serialization in C++](lectures/17-Serialization.pdf) <br /> Module 9: [Serialization](modules/module9.md) (Due Tue Nov 5)     | Oct 31:  <br /> Slides: [Building a REST API in C++](lectures/19-REST-APIs.pdf) <br /> Module 11: [REST APIs](modules/module11.md) (Due Thr Nov 7)    | Nov  1:  <br />[Lab 10 Git and GitHub](labs/lab10.md) (Due Thr Nov 7)        |
-| 11   | Nov  5:     | Nov  7: **Quiz 3**     | Nov  8:          |
-| 12   | Nov 12:     | Nov 14:      | Nov 15:          |
-| 13   | Nov 19:     | Nov 21:      | Nov 22:          |
+| 11   | Nov  5: <br />  [Project Description and Grading Rubric](project) <br /> [Quiz Review](lectures/quiz3-review.md)    | Nov  7: <br /> Module 12: [REST APIs Part 2](modules/module12.md) (Due Thr Nov 14) <br />**Quiz 3**     | Nov  8:   <br />**Project Part 1: Proposal DUE** <br />**Proposal Review in Lab**       |
+| 12   | Nov 12:     | Nov 14:      | Nov 15:  <br />**Project Part 2: Design DUE**  <br />**Design Review in Lab**        |
+| 13   | Nov 19:     | Nov 21:      | Nov 22:  <br /> **Work on Project**        |
 | 14   | Nov 26:     | Nov 28: **Thanksgiving Break**      | Nov 29: **Thanksgiving Break**         |
-| 15   | Dec  3:     | Dec  5: **Quiz 4**    | Dec  6:          |
+| 15   | Dec  3:     | Dec  5: **Quiz 4**    | Dec  6: **Project Part 3 and Part 4: Implementation and Unit Testing DUE**         |
 | 16   | Dec 10: (<u>2pm</u>):<br /> **Project Presentations**     |             |                        |
 
 

@@ -13,7 +13,7 @@ This project presents an opportunity for teams to creatively explore API develop
 
 ## Instructions
 
-1. Complete all of the work in a Group GitHub repository: [https://classroom.github.com/a/OponNjH6](https://classroom.github.com/a/OponNjH6)
+1. Complete all of the work in a Group GitHub repository: [https://classroom.github.com/a/T6dA0SMo](https://classroom.github.com/a/T6dA0SMo)
 2. __Name your group using a combination of the first names of the group members.__ 
 
 ## Team Formation
@@ -28,7 +28,7 @@ This project presents an opportunity for teams to creatively explore API develop
 
 ## Part 1: Team Creation and Proposal
 
-### Due:  Thursday April 4th
+### Due:  Friday November 9th in Lab
 
 #### Task: 
 * Each team will brainstorm and propose an idea for a REST API. 
@@ -44,7 +44,7 @@ This project presents an opportunity for teams to creatively explore API develop
 
 ## Part 2: Design Document Creation
 
-### Due: Friday April 12th
+### Due: Friday November 16th in Lab
 
 * Create a detailed design document for the proposed API. 
 * The document should include:
@@ -63,7 +63,7 @@ This project presents an opportunity for teams to creatively explore API develop
 
 ## Part 3: Implementation
 
-### Due: Friday April 26th 
+### Due: Friday December 6th in Lab
 
 * Implement the API in C++ using the Crow framework.
 * Develop the RESTful API endpoints as per the design document.
@@ -85,7 +85,7 @@ This project presents an opportunity for teams to creatively explore API develop
 
 ## Part 4: Unit Testing
 
-### Due: Friday April 26th
+### Due: Friday December 6th in Lab
 
 * Develop a suite of unit tests using a testing framework.
 * __Testing Scope__: Cover all critical functionalities and endpoints.
