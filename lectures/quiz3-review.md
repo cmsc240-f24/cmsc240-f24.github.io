@@ -24,7 +24,7 @@ __Lectures__:
 * Slides: [Make and Makefiles](15-Make-Makefiles.pdf)
     - Make
     - Makefiles
-* Lecture Notes: [Regular Expressions in C++](lecture/16) 
+* Lecture Notes: [Regular Expressions in C++](lecture16.md) 
     - Regex for validation
     - Regex for search
     - Regex in C++
