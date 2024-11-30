@@ -50,7 +50,7 @@ Understand how to implement the copy assignment operator.
 Explore how move constructors allow efficient resource transfer.
 
 1. In the `exercise3` folder of your GitHub repository, edit the file `Box.cpp` and implement a move constructor to the `Box` class:
-   - Transfer ownership of the dynamically allocated array from the source object to the target object.
+   - Transfer ownership of the dynamically allocated `int` from the source object to the target object.
    - Set the source object's pointer to `nullptr`.
 2. Review the code in the file `main.cpp`.
 3. Run make.
