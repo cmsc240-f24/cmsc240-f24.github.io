@@ -11,4 +11,5 @@ title: Guides
 * [VSCode and Github Assignments](/guides/vscode-git)
 * [Storage Space](/guides/storage)
 * [CTF Extra Credit](/guides/ctf)
+* [Echo API VSCode Extension](/guides/echoapi)
 

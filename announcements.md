@@ -30,6 +30,7 @@ Presentation Day Lunch Options Survey:
 
 ## Please attend the following if you are available
 
+
 TODAY! **Tuesday December 3rd**: 
 Brennan Schaffner
 1:15 - 1:45 pm Teaching Demonstration
@@ -40,3 +41,13 @@ Jepson Hall G04
 Priscila Silva
 10:30 - 11:00 am Teaching Demonstration
 Jepson Hall 103B
+
+
+**Lunch with the Candidate**
+Noon - 1pm Friday December 6th
+Email me if interested.
+
+
+## You may need to switch from Thunder Client to the Echo API extension
+
+See this guide for how to use the Echo API extension: [Echo API VSCode Extension](/guides/echoapi)
