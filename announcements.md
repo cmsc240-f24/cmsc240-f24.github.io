@@ -7,11 +7,10 @@ title: Announcements
 
 ## Hiring
 
-* Lab Assistant for CMSC 240 Friday 9:00 pm - 9:50 pm Fall 2024
-* Grader for CMSC 240 Fall 2024	
+* Grader for CMSC 240 Spring 2025, please email me if you are interested in this position.	
 
 
-## Lab-Redo (Due May 3rd)
+## Lab-Redo (Due December 6th)
 
 * You may redo one lab from this semester (this is optional). 
 * When you finish please email me which lab you updated.
@@ -24,11 +23,8 @@ title: Announcements
 
 ## Presentation Lunch
 
-Presentation Day Lunch Options:
+Presentation Day Lunch Options Survey:
 
-1. Pizza
-2. Taste (Sandwiches and Salads)
-3. Chipotle
-4. Other
+[https://richmond.ca1.qualtrics.com/jfe/form/SV_9pETBycT5yU6Bp4](https://richmond.ca1.qualtrics.com/jfe/form/SV_9pETBycT5yU6Bp4)
 
 

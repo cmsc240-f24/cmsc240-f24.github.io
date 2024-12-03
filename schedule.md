@@ -25,7 +25,7 @@ title: Schedule
 | 12   | Nov 12: <br /> Module 13: [REST APIs Part 3](modules/module13.md) (Due Tue Nov 19)      | Nov 14: <br /> Slides: [Smart Pointers](lectures/22-Smart-Pointers.pdf) <br /> Module 14: [C++ Smart Pointers](modules/module14.md) (Due Thr Nov 21)      | Nov 15:  <br />**Project Part 2: Design DUE**  <br />**Design Review in Lab**        |
 | 13   | Nov 19: <br /> Slides: [Build Pipelines](lectures/23-Build-Pipelines.pdf) <br /> Lecture Notes: [Unit Testing](notes/UnitTesting.md) <br /> Module 15: [Build Pipelines](modules/module15.md) (Due Tue Nov 26)    | Nov 21:  <br /> Slides: [Copy Move Semantics](lectures/Copy-Move-Semantics.pdf) <br /> Module 16: [Copy Move Semantics](modules/module16.md) (Due Tue Dec 3)    | Nov 22:  <br /> **Work on Project**        |
 | 14   | Nov 26: <br />**Guest Lecture** <br /> Slides: [Software Development Life Cycle](lectures/24-Software-Development-Life-Cycle.pdf)     | Nov 28: **Thanksgiving Break**      | Nov 29: **Thanksgiving Break**         |
-| 15   | Dec  3:     | Dec  5: **Quiz 4**    | Dec  6: **Project Part 3 and Part 4: Implementation and Unit Testing DUE**         |
+| 15   | Dec  3: <br />[Project Presentation Guidelines](presentation.md)<br />[Class Announcements](announcements.md)  <br /> [Quiz Review](lectures/quiz4-review.md)    | Dec  5: <br /> Slides: [Design Patterns](lectures/25-Design-Patterns.pdf) <br />**Quiz 4**    | Dec  6: **Project Part 3 and Part 4: Implementation and Unit Testing DUE**         |
 | 16   | Dec 10: (<u>2pm</u>):<br /> **Project Presentations**     |             |                        |
 
 
