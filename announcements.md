@@ -28,3 +28,15 @@ Presentation Day Lunch Options Survey:
 [https://richmond.ca1.qualtrics.com/jfe/form/SV_9pETBycT5yU6Bp4](https://richmond.ca1.qualtrics.com/jfe/form/SV_9pETBycT5yU6Bp4)
 
 
+## Please attend the following if you are available
+
+TODAY! **Tuesday December 3rd**: 
+Brennan Schaffner
+1:15 - 1:45 pm Teaching Demonstration
+Jepson Hall G04
+
+
+**Friday December 6th**:
+Priscila Silva
+10:30 - 11:00 am Teaching Demonstration
+Jepson Hall 103B
